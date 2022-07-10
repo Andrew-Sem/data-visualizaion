@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+.App {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-color: #232831;*/
+}
+
+.container {
+    width: 100%;
+    padding: 1rem 11rem;
+    display: flex;
+    justify-content: center;
+}
